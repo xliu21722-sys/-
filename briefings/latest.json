@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T05:40:00+08:00",
+  "summary": "今天国内大模型“开放选模型”继续升温：千问跟进豆包接入多家模型并发布Qwen4-Max；AI漫剧赚钱、AI名人声音和虚拟人违规广告也是创作者关注点。",
+  "items": [
+    {
+      "title": "千问发Qwen4-Max，可选10款模型",
+      "what": "11月16日千问发布Qwen4-Max，千问办公同时接入Kimi、DeepSeek等共10款模型可自选。",
+      "why": "紧跟豆包4天前同类更新，可拍「豆包vs千问：同一任务换模型实测」，教新手怎么选模型。",
+      "heat": "暂无（页面无阅读数）",
+      "platform": "搜狐/华尔街见闻",
+      "url": "https://www.sohu.com/a/1102262886_130887",
+      "published": "2026-11-16 15:17"
+    },
+    {
+      "title": "赵本山亲自打假「AI赵本山」",
+      "what": "AI克隆赵本山声音翻唱刷屏后，本人亲自录唱《慌啥子嘛》回应。",
+      "why": "话题自带流量，可拍「AI声音克隆怎么做出来的+怎么分辨+别乱用名人声音」。",
+      "heat": "据新浪文章：上线约2小时播放破1000万、约3小时点赞破100万",
+      "platform": "新浪/抖音",
+      "url": "http://k.sina.com.cn/article_3995444230_ee25a40600101n91e.html",
+      "published": "歌曲11-13上线，11-16登新浪AI热点"
+    },
+    {
+      "title": "做AI漫剧在红果赚到百万",
+      "what": "一位创作者讲述用AI做漫剧投红果平台，单部收入最高近80万分成。",
+      "why": "观众最关心AI能不能赚钱，可拆解流程并说清门槛和坑，做「我能不能复制」系列。",
+      "heat": "暂无",
+      "platform": "新浪财经",
+      "url": "http://finance.sina.com.cn/stock/t/2026-11-16/doc-iniyxiqz1182775.shtml",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "两毛钱让AI从零做3D网页",
+      "what": "腾讯混元发布低价模型Hy4 flash，实测在WorkBuddy里花约两毛钱生成3D交互网页。",
+      "why": "「花两毛钱」很抓眼球，阿伟可亲自跟着做一遍，拍真实成本和翻车点。",
+      "heat": "暂无",
+      "platform": "新浪科技",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-11-16/doc-iniyxpwx1163480.shtml",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "豆包工作上线「工作台」",
+      "what": "豆包工作推出按职业预配好技能的工作台，首批覆盖金融、医疗、教育等21个场景。",
+      "why": "适合做「打工人用豆包工作台提效」上手教程，挑创意设计或教育场景实操录屏。",
+      "heat": "暂无",
+      "platform": "新浪",
+      "url": "http://k.sina.com.cn/article_1496814565_593793e5020028q6c.html",
+      "published": "2026-11-16"
+    },
+    {
+      "title": "虚拟人带货美瞳被罚6.8万",
+      "what": "虚拟人账号「方桃子」发布未经审查的美瞳广告，涉事公司被罚6.82万余元。",
+      "why": "做AI数字人/接广告的博主必看，可拍「AI数字人接商单的3条红线」避坑视频。",
+      "heat": "暂无（AIHOT评分56，非播放量）",
+      "platform": "AIHOT",
+      "url": "https://aihot.news/items/szxmilipgcypod4olle7u6vqw",
+      "published": "2026-11-16 15:34"
+    },
+    {
+      "title": "Seedance 2.5开放4K视频",
+      "what": "字节火山引擎全面开放Seedance 2.5 4K视频生成接口，可先出480P样片再出4K。",
+      "why": "即梦同源模型，可拍「先低清试错再出4K」省钱思路，对比画质差异。",
+      "heat": "暂无（AIHOT评分61，非播放量）",
+      "platform": "AIHOT/火山引擎",
+      "url": "https://aihot.news/items/rplpo56eu6ch0j9lecwzty9je",
+      "published": "2026-11-16 15:34"
+    },
+    {
+      "title": "Grok能自动剪直播切片",
+      "what": "马斯克称Grok机器人可自动下载直播、剪片段并加特效配乐，不用剪辑软件。",
+      "why": "可拍「AI自动切片对做号意味着什么」，再对照剪映AI的类似功能做国内平替。",
+      "heat": "暂无（AIHOT评分41，非播放量）",
+      "platform": "X（经AIHOT）",
+      "url": "https://aihot.news/items/vellvvevs62hn77kqju8l0xpq",
+      "published": "2026-11-16 11:45"
+    },
+    {
+      "title": "指挥AI智能体最常用10条提示词",
+      "what": "自媒体作者整理了10条让AI智能体好好干活的常用提示词。",
+      "why": "干货清单型内容易收藏，阿伟可挑3条亲测，讲哪些好用哪些踩坑。",
+      "heat": "暂无（AIHOT评分68，非播放量）",
+      "platform": "AIHOT",
+      "url": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
+      "published": "2026-11-16 18:11"
+    },
+    {
+      "title": "ChatGPT钱包上线，AI可代购物",
+      "what": "OpenAI推出ChatGPT Wallet，AI可代用户下单，付款前需指纹/面容确认，暂限美国Pro用户。",
+      "why": "国内用不了但话题新，可拍「AI替你花钱靠谱吗」科普+安全提醒。",
+      "heat": "暂无",
+      "platform": "Yahoo财经",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/openais-new-chatgpt-wallet-lets-ai-shop-for-you-what-are-the-risks-160446618.html",
+      "published": "2026-11-16 08:04（美国太平洋时间）"
+    }
+  ],
+  "notes": "未使用 agent-reach 直接抓取抖音/小红书/B站/X 页面，热度数据大多拿不到，标为「暂无」；AIHOT 全部列表第2页（11月16日约35条）未能读取；llmgateway 模型时间线页面不显示日期，无法确认近48小时新模型；赵本山一条原始事件为11月13日，因11月16日仍在热榜保留。"
+}
