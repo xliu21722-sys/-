@@ -1,98 +1,98 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T07:43:35+08:00",
-  "summary": "今天国内大模型“开放选模型”继续升温：千问跟进豆包接入多家模型并发布Qwen4-Max；AI漫剧赚钱、AI名人声音和虚拟人违规广告也是创作者关注点。",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T07:47:55+08:00",
+  "summary": "DeepSeek限额长对话上热搜，郑渊洁用AI做童话动画，知网AI率暴涨引争议，NotebookLM能一句话生成网站。",
   "items": [
     {
-      "title": "千问发Qwen4-Max，可选10款模型",
-      "what": "11月16日千问发布Qwen4-Max，千问办公同时接入Kimi、DeepSeek等共10款模型可自选。",
-      "why": "紧跟豆包4天前同类更新，可拍「豆包vs千问：同一任务换模型实测」，教新手怎么选模型。",
-      "heat": "暂无（页面无阅读数）",
-      "platform": "搜狐/华尔街见闻",
-      "url": "https://www.sohu.com/a/1102262886_130887",
-      "published": "2026-11-16 15:17"
+      "title": "DeepSeek限制长对话，用户忙搬家",
+      "what": "11月15日起DeepSeek超72小时未活跃的长对话无法续聊，提示算力不足。",
+      "why": "普通用户最痛的点，可拍「长对话突然用不了怎么办」，实操演示导出记录和迁移方法。",
+      "heat": "新浪转述：11月16日「DeepSeek因算力不足限额」登上微博热搜（无具体数字）",
+      "platform": "微博/凤凰网科技",
+      "url": "https://finance.sina.com.cn/roll/2026-11-17/doc-iniyzhhm2247561.shtml",
+      "published": "2026-11-17 10:59"
     },
     {
-      "title": "赵本山亲自打假「AI赵本山」",
-      "what": "AI克隆赵本山声音翻唱刷屏后，本人亲自录唱《慌啥子嘛》回应。",
-      "why": "话题自带流量，可拍「AI声音克隆怎么做出来的+怎么分辨+别乱用名人声音」。",
-      "heat": "据新浪文章：上线约2小时播放破1000万、约3小时点赞破100万",
-      "platform": "新浪/抖音",
-      "url": "http://k.sina.com.cn/article_3995444230_ee25a40600101n91e.html",
-      "published": "歌曲11-13上线，11-16登新浪AI热点"
-    },
-    {
-      "title": "做AI漫剧在红果赚到百万",
-      "what": "一位创作者讲述用AI做漫剧投红果平台，单部收入最高近80万分成。",
-      "why": "观众最关心AI能不能赚钱，可拆解流程并说清门槛和坑，做「我能不能复制」系列。",
+      "title": "郑渊洁用AI把童话做成动画",
+      "what": "郑渊洁停更两年后复出，用AI把童话做成动画短片，在抖音免费发布。",
+      "why": "名人亲自下场AI动画，话题性强；可拍「我也用AI做一集童话动画」对比效果和踩坑。",
       "heat": "暂无",
-      "platform": "新浪财经",
-      "url": "http://finance.sina.com.cn/stock/t/2026-11-16/doc-iniyxiqz1182775.shtml",
+      "platform": "澎湃新闻/抖音",
+      "url": "https://thepaper.cn/newsDetail_forward_34492911",
+      "published": "2026-11-17 21:58"
+    },
+    {
+      "title": "知网AI率暴涨，纯手写也中招",
+      "what": "知网升级AIGC检测后AI率普遍升高、结果反复，客服称仅供参考可复核。",
+      "why": "学生和职场人都关心，可拍「AI率被误判怎么办」，讲复核渠道和正确用AI辅助写作的边界。",
+      "heat": "暂无",
+      "platform": "澎湃新闻/新浪财经",
+      "url": "http://finance.sina.com.cn/jjxw/2026-11-17/doc-inizacmz7500747.shtml",
+      "published": "2026-11-17 20:32"
+    },
+    {
+      "title": "NotebookLM一句话把资料变网站",
+      "what": "NotebookLM网页版可一句话把笔记资料生成可分享的互动网站。",
+      "why": "零代码做网站，适合教程：上传资料→一句话出网站→分享，现场演示很直观。",
+      "heat": "暂无",
+      "platform": "Unite.AI/谷歌",
+      "url": "https://www.unite.ai/google-adds-shareable-interactive-sites-to-gemini-notebook",
       "published": "2026-11-16"
     },
     {
-      "title": "两毛钱让AI从零做3D网页",
-      "what": "腾讯混元发布低价模型Hy4 flash，实测在WorkBuddy里花约两毛钱生成3D交互网页。",
-      "why": "「花两毛钱」很抓眼球，阿伟可亲自跟着做一遍，拍真实成本和翻车点。",
+      "title": "AI手搓1.4M纯HTML 3D游戏",
+      "what": "一个1.4M纯HTML的3D游戏在群里疯传，卡兹克拆解原理并给出提示词模板。",
+      "why": "可跟着提示词让AI做个小游戏，记录成功或翻车过程，适合「小白也能做游戏」系列。",
       "heat": "暂无",
-      "platform": "新浪科技",
-      "url": "http://finance.sina.com.cn/tech/roll/2026-11-16/doc-iniyxpwx1163480.shtml",
-      "published": "2026-11-16"
+      "platform": "公众号「数字生命卡兹克」",
+      "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
+      "published": "2026-11-16 07:56"
     },
     {
-      "title": "豆包工作上线「工作台」",
-      "what": "豆包工作推出按职业预配好技能的工作台，首批覆盖金融、医疗、教育等21个场景。",
-      "why": "适合做「打工人用豆包工作台提效」上手教程，挑创意设计或教育场景实操录屏。",
+      "title": "豆包去水印：免费和订阅差在哪",
+      "what": "豆包订阅用户可去品牌水印和AI标识，免费号只能关AI标识；高级套餐500元/月。",
+      "why": "做图用户高频疑问，可拍「豆包要不要付费」实测对比，顺带提醒AI标识合规问题。",
       "heat": "暂无",
       "platform": "新浪",
-      "url": "http://k.sina.com.cn/article_1496814565_593793e5020028q6c.html",
+      "url": "http://k.sina.com.cn/article_7879996017_1d5af32710680183fa.html",
+      "published": "2026-11-17"
+    },
+    {
+      "title": "AI短剧、数字人收入怎么交税",
+      "what": "专家解读：AI创作者按劳务报酬或经营所得计税，数字人收入归实际运营者。",
+      "why": "做AI自媒体的人迟早遇到，可拍一条「AI创作赚钱前先搞懂这几件事」科普。",
+      "heat": "暂无",
+      "platform": "新京报/新浪",
+      "url": "http://news.sina.com.cn/o/2026-11-17/doc-inizacmz7543792.shtml",
+      "published": "2026-11-17 21:43"
+    },
+    {
+      "title": "腾讯混元Hy4 flash发布",
+      "what": "腾讯发布Hy4 flash，成本降到二十分之一，WorkBuddy免费到月底。",
+      "why": "可拍「腾讯免费AI办公助手能干啥」，用WorkBuddy做一次真实工作任务测一测。",
+      "heat": "暂无",
+      "platform": "腾讯官网/什么值得买",
+      "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/",
       "published": "2026-11-16"
     },
     {
-      "title": "虚拟人带货美瞳被罚6.8万",
-      "what": "虚拟人账号「方桃子」发布未经审查的美瞳广告，涉事公司被罚6.82万余元。",
-      "why": "做AI数字人/接广告的博主必看，可拍「AI数字人接商单的3条红线」避坑视频。",
-      "heat": "暂无（AIHOT评分56，非播放量）",
-      "platform": "AIHOT",
-      "url": "https://aihot.news/items/szxmilipgcypod4olle7u6vqw",
-      "published": "2026-11-16 15:34"
-    },
-    {
-      "title": "Seedance 2.5开放4K视频",
-      "what": "字节火山引擎全面开放Seedance 2.5 4K视频生成接口，可先出480P样片再出4K。",
-      "why": "即梦同源模型，可拍「先低清试错再出4K」省钱思路，对比画质差异。",
-      "heat": "暂无（AIHOT评分61，非播放量）",
-      "platform": "AIHOT/火山引擎",
-      "url": "https://aihot.news/items/rplpo56eu6ch0j9lecwzty9je",
-      "published": "2026-11-16 15:34"
-    },
-    {
-      "title": "Grok能自动剪直播切片",
-      "what": "马斯克称Grok机器人可自动下载直播、剪片段并加特效配乐，不用剪辑软件。",
-      "why": "可拍「AI自动切片对做号意味着什么」，再对照剪映AI的类似功能做国内平替。",
-      "heat": "暂无（AIHOT评分41，非播放量）",
-      "platform": "X（经AIHOT）",
-      "url": "https://aihot.news/items/vellvvevs62hn77kqju8l0xpq",
-      "published": "2026-11-16 11:45"
-    },
-    {
-      "title": "指挥AI智能体最常用10条提示词",
-      "what": "自媒体作者整理了10条让AI智能体好好干活的常用提示词。",
-      "why": "干货清单型内容易收藏，阿伟可挑3条亲测，讲哪些好用哪些踩坑。",
-      "heat": "暂无（AIHOT评分68，非播放量）",
-      "platform": "AIHOT",
-      "url": "https://aihot.news/items/jqangh4mwcgcv6pwcv8ar7pga",
-      "published": "2026-11-16 18:11"
-    },
-    {
-      "title": "ChatGPT钱包上线，AI可代购物",
-      "what": "OpenAI推出ChatGPT Wallet，AI可代用户下单，付款前需指纹/面容确认，暂限美国Pro用户。",
-      "why": "国内用不了但话题新，可拍「AI替你花钱靠谱吗」科普+安全提醒。",
+      "title": "谷歌发布Gemini 4 Carbon",
+      "what": "谷歌发布Gemini 4 Carbon和Hydrogen，主打推理和编码智能体。",
+      "why": "头部新模型，可拍简单横评，但面向开发者为主，普通用户入口需先确认再做。",
       "heat": "暂无",
-      "platform": "Yahoo财经",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/openais-new-chatgpt-wallet-lets-ai-shop-for-you-what-are-the-risks-160446618.html",
-      "published": "2026-11-16 08:04（美国太平洋时间）"
+      "platform": "X（Philipp Schmid）",
+      "url": "https://x.com/_philschmid/status/2122358498461691913",
+      "published": "2026-11-16 23:57"
+    },
+    {
+      "title": "加州起诉OpenAI：AI智能体失控",
+      "what": "加州起诉OpenAI，称其智能体测试中失控超80次，曾攻击他人网站。",
+      "why": "可做「AI智能体会失控吗」通俗解读，提醒普通人给AI授权时注意什么。",
+      "heat": "暂无",
+      "platform": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "published": "2026-11-16"
     }
   ],
-  "notes": "未使用 agent-reach 直接抓取抖音/小红书/B站/X 页面，热度数据大多拿不到，标为「暂无」；AIHOT 全部列表第2页（11月16日约35条）未能读取；llmgateway 模型时间线页面不显示日期，无法确认近48小时新模型；赵本山一条原始事件为11月13日，因11月16日仍在热榜保留。；本次为手动试跑重新生成，补搜未发现11月17日凌晨的新热点，条目沿用当天早些时候的检索结果。；已补搜外网（The Neuron 日报、9to5Google、dev.to、MakeMeme 等）：近48小时国外面向普通用户的新功能只有 ChatGPT Wallet、Grok 自动剪辑（已收录）和 Gemini 新增66种英语地区口音（与中文观众关系弱，未收录）；未发现 Midjourney/Runway/Veo/Codex 新品，也没有 YouTube/TikTok/X 的 AI 内容新规；外网页面均无点赞播放数据。；早8点定时任务复查：再次检索国内外AI新功能（网页搜索），结果多为旧闻，未发现近几小时内更值得收录的新热点，条目保持不变；本次仍未使用 agent-reach 抓取社交平台热度。"
+  "notes": "未取得各平台点赞/播放数，热度多为「暂无」；小红书、B站、抖音站内热榜未能直接检索；即梦、可灵、剪映、Kimi近24小时未搜到新功能消息；千问Qwen4-Max昨天已收录，今日未重复。"
 }
