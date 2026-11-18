@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T07:46:22+08:00",
+  "summary": "今天视频和做图工具双升级：即梦出4K长视频、可灵图片能写大段中文；另有AI换脸短剧被下架的避坑警示。",
+  "items": [
+    {
+      "title": "即梦视频出4K版，一次生成30秒",
+      "what": "即梦Seedance 2.5推出4K版本，单次最长生成30秒，支持全模态参考、视频编辑和延长。",
+      "why": "国内用户直接能用，适合做「同一提示词4K实测+翻车点」对比，教新手做一条完整短片。",
+      "heat": "暂无",
+      "platform": "新浪（转载爱范儿）",
+      "url": "http://finance.sina.com.cn/stock/t/2026-11-18/doc-inizcrpc1107393.shtml",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "可灵图片4.0：一张图能写2000字",
+      "what": "可灵Image 4.0上线，原生8K，单图可生成约2000字文字、70多款字体，一次出最多10张系列图。",
+      "why": "做封面、海报、小红书图文的刚需，可拍「AI一键做10张系列封面」实操，展示中文字是否会乱码。",
+      "heat": "暂无",
+      "platform": "微信公众号/新浪科技",
+      "url": "http://finance.sina.com.cn/tob/2026-11-18/doc-inizcrpi1639990.shtml",
+      "published": "2026-11-17"
+    },
+    {
+      "title": "AI短剧换脸17位红楼演员被下架",
+      "what": "AI短剧《梦回红楼》用AI换脸87版演员面部，未经授权，上热搜后账号搜不到、短剧下架。",
+      "why": "做AI自媒体必知的红线：讲清楚换脸、用别人肖像会踩什么坑，适合口播避坑视频。",
+      "heat": "新浪报道称话题登上热搜，未见具体数字",
+      "platform": "新浪（引中国青年报、上观新闻）",
+      "url": "http://k.sina.com.cn/article_1887344341_707e96d504001y5pm.html",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "OpenAI发布GPT-6.2两款新模型",
+      "what": "OpenAI发布GPT-6.2 Astra（复杂专业工作）和Sol（日常工作），同步上线ChatGPT、Codex和API。",
+      "why": "头部大新闻，可做「两个版本普通人该选哪个」，结合国内实测文章说优缺点，别做跑分。",
+      "heat": "暂无",
+      "platform": "OpenAI官网",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "千问办公一次接入10款大模型",
+      "what": "阿里千问办公新增10款模型，含Qwen4-Max，并接入Kimi、GLM、DeepSeek等，可按任务自选模型。",
+      "why": "继豆包之后千问也开放多模型，可拍「一个App用遍国产大模型」，教新手按任务挑模型。",
+      "heat": "暂无",
+      "platform": "新浪",
+      "url": "http://k.sina.com.cn/article_1887344341_707e96d502001y5y6.html",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "微软Copilot直接帮你做PPT和表格",
+      "what": "微软Ignite大会推出新Copilot应用，把Word、Excel、PowerPoint的创建编辑整合进一个AI助手。",
+      "why": "打工人做PPT、表格的痛点，可做「AI办公三件套」科普，对比国内WPS AI怎么选。",
+      "heat": "暂无",
+      "platform": "新浪（转载IT之家）",
+      "url": "http://finance.sina.com.cn/tech/digi/2026-11-18/doc-inizcvuz1066043.shtml",
+      "published": "2026-11-17"
+    },
+    {
+      "title": "Gemini帮你打电话预约，免费开放",
+      "what": "谷歌把Gemini「任务」功能免费开放给美日韩等六国用户，能自动打电话预约、下单、管日程。",
+      "why": "展示「AI替你跑腿」的未来感，可做海外见闻类视频，顺带说国内暂时用不了。",
+      "heat": "暂无",
+      "platform": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "Suno能把你的歌直接做成MV",
+      "what": "Suno推出Visuals，可用曲库里的歌生成最长15秒的歌词视频、专辑封面，或把照片变视频。",
+      "why": "AI写歌+AI配画面一条龙，适合拍「零基础30分钟做一首带MV的歌」。",
+      "heat": "暂无",
+      "platform": "Suno官网",
+      "url": "https://suno.com/blog/introducing-visuals",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "谷歌Genie 4：边玩边改的AI世界",
+      "what": "Genie 4开放给Google AI Ultra订阅用户，可边探索边打字改天气、加角色，还首次带实时声音。",
+      "why": "画面很有视觉冲击，适合剪「AI生成可玩世界」的看热闹视频，强调目前要付费订阅。",
+      "heat": "暂无",
+      "platform": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "published": "2026-11-18"
+    },
+    {
+      "title": "电脑出毛病，直接跟AI说就能修",
+      "what": "微软宣布Windows 11 Copilot可用大白话描述故障，如耳机没声音，授权后AI自动检查设备。",
+      "why": "小白实用向，可拍「用AI修电脑」小技巧，延伸讲国内AI助手怎么问故障更有效。",
+      "heat": "暂无",
+      "platform": "新浪（转载IT之家）",
+      "url": "http://finance.sina.com.cn/tech/digi/2026-11-18/doc-inizcvuz1036376.shtml",
+      "published": "2026-11-17"
+    }
+  ],
+  "notes": "因时间紧，本次主要通过网页搜索和AI热点聚合页（新浪AI热点小时报、AI HOT、AI早报）收集；各平台点赞/播放数均未能取得，热度多为「暂无」；小红书、B站、抖音站内热榜未直接检索；kellyabbott1.substack.com读取失败；DeepSeek限额、AI收入纳税、混元Hy4 flash等昨日已收录，今日不重复。"
+}
