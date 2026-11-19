@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T07:44:07+08:00",
+  "summary": "谷歌Gemini连发新模型和Mac「代操作电脑」功能，豆包办公和实时音视频同步升级。",
+  "items": [
+    {
+      "title": "Gemini能在Mac上替你操作电脑",
+      "what": "Gemini的Mac版新增「操控电脑」功能，可在后台帮你操作文件、软件和网页。",
+      "why": "「AI替我点鼠标」画面感强，可拍一期实测+踩坑；目前仅限美国英文付费版，可做「国内能不能用」科普。",
+      "heat": "暂无",
+      "platform": "TechCrunch（经LavX转载）",
+      "url": "https://news.lavx.hu/article/google-brings-computer-use-to-gemini-on-mac",
+      "published": "2026-11-19 19:14 UTC"
+    },
+    {
+      "title": "谷歌发布Gemini 4 Neon新模型",
+      "what": "谷歌发布Gemini 4 Neon，主打又快又便宜，号称超过OpenAI的GPT-6.2 Sol。",
+      "why": "新模型热度高，可做「普通人用得上吗」横评：同一道写文案/做表任务，对比Gemini、ChatGPT和国产模型。",
+      "heat": "暂无",
+      "platform": "ASCII.jp",
+      "url": "https://ascii.jp/en/elem/000/004/453/4453224/",
+      "published": "2026-11-19"
+    },
+    {
+      "title": "豆包工作日活破800万，新增工作台",
+      "what": "豆包工作上线三个月日活破800万，新「工作台」覆盖金融、教育、设计等21个职业场景。",
+      "why": "贴合「AI提效」受众，可拍「我用豆包工作台挑3个场景干活」真实体验，顺便讲哪些场景好用哪些翻车。",
+      "heat": "暂无",
+      "platform": "每日经济新闻（新浪转载）",
+      "url": "https://www.sina.cn/weibo/detail/5367020997836853.html",
+      "published": "2026-11-19 17:36"
+    },
+    {
+      "title": "豆包能看能听还会主动开口",
+      "what": "火山引擎上线豆包实时音视频模型SeedRealtime 1.0，能边看边听边说并主动提醒。",
+      "why": "目前先给开发者用，可做「AI视频通话会主动提醒你」的趋势解读，等App上线后第一时间实测。",
+      "heat": "暂无",
+      "platform": "快科技（新浪转载）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-19/doc-inizhfae7743099.shtml",
+      "published": "2026-11-19 15:25"
+    }
+  ],
+  "notes": "今天赶在8点前出稿，只收录了4条近24小时的新内容，所以条数偏少。主要通过网页搜索和AI资讯聚合页（AI工具集每日快讯、新浪AI热点小时报）找的；各条都没拿到点赞/播放数，热度统一写「暂无」；小红书、B站、抖音站内热榜没有直接检索；samonai.substack.com和IT之家页面读取失败；谷歌Genie 4昨天已收录，今天不重复。"
+}
