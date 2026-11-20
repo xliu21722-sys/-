@@ -1,44 +1,89 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T07:44:07+08:00",
-  "summary": "谷歌Gemini连发新模型和Mac「代操作电脑」功能，豆包办公和实时音视频同步升级。",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T07:46:46+08:00",
+  "summary": "微信电脑版能一句话做小工具，ChatGPT语音输入不限时长，Meta AI助手曝隐私串号可做避坑。",
   "items": [
     {
-      "title": "Gemini能在Mac上替你操作电脑",
-      "what": "Gemini的Mac版新增「操控电脑」功能，可在后台帮你操作文件、软件和网页。",
-      "why": "「AI替我点鼠标」画面感强，可拍一期实测+踩坑；目前仅限美国英文付费版，可做「国内能不能用」科普。",
+      "title": "微信电脑版能一句话做小工具",
+      "what": "微信桌面端上线AI应用生成智能体「做个小工具」，说需求就能生成小应用。",
+      "why": "零代码做工具最戳小白，可实拍：一句话做个记账/待办小工具，记录哪里翻车，做成教程+踩坑。",
       "heat": "暂无",
-      "platform": "TechCrunch（经LavX转载）",
-      "url": "https://news.lavx.hu/article/google-brings-computer-use-to-gemini-on-mac",
-      "published": "2026-11-19 19:14 UTC"
+      "platform": "AI工具集（ai-bot.cn）",
+      "url": "https://ai-bot.cn/minitool/",
+      "published": "2026-11-20"
     },
     {
-      "title": "谷歌发布Gemini 4 Neon新模型",
-      "what": "谷歌发布Gemini 4 Neon，主打又快又便宜，号称超过OpenAI的GPT-6.2 Sol。",
-      "why": "新模型热度高，可做「普通人用得上吗」横评：同一道写文案/做表任务，对比Gemini、ChatGPT和国产模型。",
+      "title": "ChatGPT语音输入不限时长了",
+      "what": "ChatGPT听写改为边说边出字，可先改再发，取消10分钟录音上限，全球逐步开放。",
+      "why": "口播博主刚需：拍「用嘴写文案」实测，对比豆包语音输入，顺带讲口述脚本的提效流程。",
       "heat": "暂无",
-      "platform": "ASCII.jp",
-      "url": "https://ascii.jp/en/elem/000/004/453/4453224/",
+      "platform": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "published": "2026-11-20"
+    },
+    {
+      "title": "Meta的AI助手串号泄露隐私",
+      "what": "据报道Meta智能体Muse把不同用户对话混在一起，曝出他人提醒、账户余额等信息。",
+      "why": "现成的避坑选题：讲清用AI别乱填身份证、银行卡等隐私，结合自己设置习惯，观众收藏率高。",
+      "heat": "Muse位列美区App Store免费榜第二（新浪援引网易）",
+      "platform": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "published": "2026-11-19"
     },
     {
-      "title": "豆包工作日活破800万，新增工作台",
-      "what": "豆包工作上线三个月日活破800万，新「工作台」覆盖金融、教育、设计等21个职业场景。",
-      "why": "贴合「AI提效」受众，可拍「我用豆包工作台挑3个场景干活」真实体验，顺便讲哪些场景好用哪些翻车。",
-      "heat": "暂无",
-      "platform": "每日经济新闻（新浪转载）",
-      "url": "https://www.sina.cn/weibo/detail/5367020997836853.html",
-      "published": "2026-11-19 17:36"
+      "title": "前DeepSeek研究员开源本地AI管家",
+      "what": "前DeepSeek研究员开源个人智能体Linger，可在自己电脑本地运行。",
+      "why": "「数据不出电脑」话题火，可拍小白能否装上的真实尝试，装不上也是踩坑素材。",
+      "heat": "新浪报道称GitHub星标已超2000",
+      "platform": "新浪科技 / GitHub",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vmhk.html",
+      "published": "2026-11-20"
     },
     {
-      "title": "豆包能看能听还会主动开口",
-      "what": "火山引擎上线豆包实时音视频模型SeedRealtime 1.0，能边看边听边说并主动提醒。",
-      "why": "目前先给开发者用，可做「AI视频通话会主动提醒你」的趋势解读，等App上线后第一时间实测。",
+      "title": "AI短剧平台发30万激励",
+      "what": "LibTV启动「抓马剧场」计划，AI短剧单部最高可获30万元激励。",
+      "why": "AI短剧变现正热，可做「普通人能不能靠AI短剧拿激励」解读，讲门槛和规则。",
       "heat": "暂无",
-      "platform": "快科技（新浪转载）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-19/doc-inizhfae7743099.shtml",
-      "published": "2026-11-19 15:25"
+      "platform": "哩布哩布AI公众号",
+      "url": "https://mp.weixin.qq.com/s/pbJjpuMUGv5UkVFqa0nIkA",
+      "published": "2026-11-20"
+    },
+    {
+      "title": "Canva出了一键关闭AI按钮",
+      "what": "Canva新增开关，可关闭魔法写作、扩图等多数AI功能，搜索里也少出AI内容。",
+      "why": "反常识选题：设计工具反而让你关AI，聊何时该用、何时别用AI，适合观点类口播。",
+      "heat": "暂无",
+      "platform": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "published": "2026-11-20"
+    },
+    {
+      "title": "苹果被曝在做帮你操作Mac的AI",
+      "what": "据彭博报道，苹果在开发能操作应用、浏览网页和写代码的AI智能体，处于早期。",
+      "why": "接谷歌Gemini操控Mac的热度，做「AI替你点电脑」盘点：现在谁能用、苹果党还要等多久。",
+      "heat": "暂无",
+      "platform": "TechCrunch / 彭博",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "published": "2026-11-19"
+    },
+    {
+      "title": "谷歌AI摘要让网站点击掉四成",
+      "what": "有实验显示谷歌AI概览普及后，网站外链点击下降约40%。",
+      "why": "给做内容的人提个醒：AI搜索抢流量，可聊自媒体怎么让AI引用自己、别只靠搜索。",
+      "heat": "暂无",
+      "platform": "Digital Today",
+      "url": "https://www.digitaltoday.co.kr/cn/view/128144/google-ai-overviews-spread-triggers-alarm-for-websites-as-clicks-fall-39-8-percent",
+      "published": "2026-11-19"
+    },
+    {
+      "title": "三星谷歌AI眼镜预售秒空",
+      "what": "三星与谷歌合作的Gemini AI眼镜预售数小时售罄，12月10日在韩美上市。",
+      "why": "可做「AI眼镜到底能干嘛」科普，偏资讯，适合作为周末快讯合集的一条。",
+      "heat": "暂无",
+      "platform": "AIProductHub",
+      "url": "https://aiproducthub.cn/newsflash/samsung-google-ai-glasses-preorders-sell-out-december-launch/",
+      "published": "2026-11-19"
     }
   ],
-  "notes": "今天赶在8点前出稿，只收录了4条近24小时的新内容，所以条数偏少。主要通过网页搜索和AI资讯聚合页（AI工具集每日快讯、新浪AI热点小时报）找的；各条都没拿到点赞/播放数，热度统一写「暂无」；小红书、B站、抖音站内热榜没有直接检索；samonai.substack.com和IT之家页面读取失败；谷歌Genie 4昨天已收录，今天不重复。"
+  "notes": "今天国内大厂（豆包、千问、Kimi、即梦、可灵、剪映）近24小时未搜到新的功能发布，前几天的已在往期简报中，不再重复；抖音/小红书/B站平台内热度数据无法直接读取，热度多为「暂无」；三星眼镜一条来自聚合站摘要，未打开原文。"
 }
