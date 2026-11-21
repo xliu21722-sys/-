@@ -1,0 +1,41 @@
+{
+  "day": "2026-11-22",
+  "items": [
+    {
+      "id": "brief_1e02ab9c34ce90d4",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+      "platform": "GitHub",
+      "first": true,
+      "published_at": "2026-11-20T00:47:14Z",
+      "title": "Codex 0.171.0：新增 GPT-6.2 模型，默认启用终端工作区",
+      "summary": "新增 GPT-6.2 Sol 和 Astra，Sol 成为模型目录的默认选择；默认启用终端工作区，可在主对话旁查看可搜索的文档预览、图片预览和子智能体记录。",
+      "relation": "适合围绕“用 Codex 做网站或工具”录制一次真实操作，展示如何查看图片、查找文档和跟踪任务过程，为不懂代码的新手提供具体界面演示。",
+      "source": "GitHub",
+      "how": "适合围绕“用 Codex 做网站或工具”录制一次真实操作，展示如何查看图片、查找文档和跟踪任务过程，为不懂代码的新手提供具体界面演示。",
+      "ai": true,
+      "discovered_at": 1795279001.804547,
+      "heat": null,
+      "heat_label": "—"
+    }
+  ],
+  "stats": {
+    "scanned": 9,
+    "kept": 1,
+    "first": 1,
+    "shares": [
+      0.0,
+      88.88888888888889,
+      11.11111111111111,
+      0.0
+    ],
+    "labels": [
+      "抖音",
+      "GitHub",
+      "X / 官方博客",
+      "其他"
+    ]
+  },
+  "coverage": {
+    "本次检查": "Horizon 已保存候选，使用本机 Codex 整理；未调用抖音。"
+  }
+}
