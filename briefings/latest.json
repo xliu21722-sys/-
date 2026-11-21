@@ -1,89 +1,89 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T07:46:46+08:00",
-  "summary": "微信电脑版能一句话做小工具，ChatGPT语音输入不限时长，Meta AI助手曝隐私串号可做避坑。",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T07:44:50+08:00",
+  "summary": "ChatGPT推出Space统一做PPT和整理资料，Gemini能替人打电话，「AI稿没人看」话题适合做踩坑。",
   "items": [
     {
-      "title": "微信电脑版能一句话做小工具",
-      "what": "微信桌面端上线AI应用生成智能体「做个小工具」，说需求就能生成小应用。",
-      "why": "零代码做工具最戳小白，可实拍：一句话做个记账/待办小工具，记录哪里翻车，做成教程+踩坑。",
+      "title": "ChatGPT上线Space统一工作区",
+      "what": "ChatGPT侧边栏新增Space，页面、幻灯片、图片、文件集中管理，还能协作。",
+      "why": "小白做PPT/资料整理刚需：实拍用Space从零做一份幻灯片，记录卡在哪、和国产工具比谁省事。",
       "heat": "暂无",
-      "platform": "AI工具集（ai-bot.cn）",
-      "url": "https://ai-bot.cn/minitool/",
+      "platform": "X（ChatGPT官方）/ OpenAI帮助中心",
+      "url": "https://help.openai.com/zh-hans-cn/articles/20001549-getting-started-with-space-in-chatgpt",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "Gemini能替你给商家打电话",
+      "what": "谷歌把Duplex放进Gemini的Tasks，可自动致电商家问营业、订位。",
+      "why": "「AI替我打电话」反差感强，可拍演示+讲国内能否用、替代方案是什么，适合做科普向短视频。",
+      "heat": "暂无",
+      "platform": "Google Research博客",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "DeepSeek插件的13种玩法",
+      "what": "卡兹克在DeepSeek Harness发布百天之际，分享13个插件玩法。",
+      "why": "现成的教程清单：挑3个最适合小白的亲手试一遍，拍「哪些好用、哪些踩坑」的实测合集。",
+      "heat": "暂无",
+      "platform": "X（卡兹克）",
+      "url": "https://x.com/Khazix0918/status/2123627885730951241",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "AI写的自媒体稿为啥没人看",
+      "what": "一篇观点文章称AI批量生成的自媒体稿结构工整但没内容，阅读量常年两位数。",
+      "why": "正戳阿伟定位：拍「我用AI写文案踩过的坑」，对比纯AI稿和加入真实经历后的数据，给观众避坑法。",
+      "heat": "暂无",
+      "platform": "新浪",
+      "url": "http://k.sina.com.cn/article_5953740931_162dee083067046be0.html",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "剪映黑客松3小时做乐队MV",
+      "what": "剪映办AI×音乐视觉黑客松，创作者几小时内为真实乐队做出MV和现场视觉。",
+      "why": "可模仿挑战：用剪映AI给一首歌3小时做MV，全程记录流程和翻车点，教程+挑战双buff。",
+      "heat": "暂无",
+      "platform": "新浪（量子位）",
+      "url": "http://news.sina.cn/ai/2026-11-21/detail-inizpkcw3240008.d.html",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "Gemini 4 Hydrogen上线",
+      "what": "Gemini 4 Hydrogen上线应用和搜索，主打速度和日常任务。",
+      "why": "新模型速测选题：用同一组日常问题对比豆包/DeepSeek，60秒出结论，注意国内使用门槛要说清。",
+      "heat": "暂无（AIHOT显示另有16家媒体报道）",
+      "platform": "X（Google官方）",
+      "url": "https://x.com/Google/status/2123825847815561261",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "华为新机取消APP图标",
+      "what": "华为星芒O1 Pro可开启「取消APP图标」模式，开机首屏变成小艺AI屏。",
+      "why": "「手机以后不用点App了？」话题性强，可做观点短视频：讲AI助手入口变化对普通人意味着什么。",
+      "heat": "暂无",
+      "platform": "新浪",
+      "url": "http://k.sina.com.cn/article_7879995964_1d5af323c068019w1m.html",
+      "published": "2026-11-21"
+    },
+    {
+      "title": "北京AIGC视听最高送10万Token",
+      "what": "北京AIGC视听产业创新中心发扶持政策，优秀作品最高给10万元Token。",
+      "why": "给想做AI视频的观众的福利信息：讲清谁能申请、怎么参与，适合做信息差类快讯。",
+      "heat": "暂无",
+      "platform": "新浪",
+      "url": "http://k.sina.com.cn/article_1893892941_70e2834d02002580a.html",
       "published": "2026-11-20"
     },
     {
-      "title": "ChatGPT语音输入不限时长了",
-      "what": "ChatGPT听写改为边说边出字，可先改再发，取消10分钟录音上限，全球逐步开放。",
-      "why": "口播博主刚需：拍「用嘴写文案」实测，对比豆包语音输入，顺带讲口述脚本的提效流程。",
+      "title": "商汤生图模型登顶国内第一",
+      "what": "商汤U1 Pro在Design Arena生图和改图双榜获中国第一、全球第六。",
+      "why": "可做国产AI做图横评：同一提示词对比商汤、即梦、豆包，看小白最该用哪个。",
       "heat": "暂无",
-      "platform": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "Meta的AI助手串号泄露隐私",
-      "what": "据报道Meta智能体Muse把不同用户对话混在一起，曝出他人提醒、账户余额等信息。",
-      "why": "现成的避坑选题：讲清用AI别乱填身份证、银行卡等隐私，结合自己设置习惯，观众收藏率高。",
-      "heat": "Muse位列美区App Store免费榜第二（新浪援引网易）",
-      "platform": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "published": "2026-11-19"
-    },
-    {
-      "title": "前DeepSeek研究员开源本地AI管家",
-      "what": "前DeepSeek研究员开源个人智能体Linger，可在自己电脑本地运行。",
-      "why": "「数据不出电脑」话题火，可拍小白能否装上的真实尝试，装不上也是踩坑素材。",
-      "heat": "新浪报道称GitHub星标已超2000",
-      "platform": "新浪科技 / GitHub",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908vmhk.html",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "AI短剧平台发30万激励",
-      "what": "LibTV启动「抓马剧场」计划，AI短剧单部最高可获30万元激励。",
-      "why": "AI短剧变现正热，可做「普通人能不能靠AI短剧拿激励」解读，讲门槛和规则。",
-      "heat": "暂无",
-      "platform": "哩布哩布AI公众号",
-      "url": "https://mp.weixin.qq.com/s/pbJjpuMUGv5UkVFqa0nIkA",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "Canva出了一键关闭AI按钮",
-      "what": "Canva新增开关，可关闭魔法写作、扩图等多数AI功能，搜索里也少出AI内容。",
-      "why": "反常识选题：设计工具反而让你关AI，聊何时该用、何时别用AI，适合观点类口播。",
-      "heat": "暂无",
-      "platform": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "苹果被曝在做帮你操作Mac的AI",
-      "what": "据彭博报道，苹果在开发能操作应用、浏览网页和写代码的AI智能体，处于早期。",
-      "why": "接谷歌Gemini操控Mac的热度，做「AI替你点电脑」盘点：现在谁能用、苹果党还要等多久。",
-      "heat": "暂无",
-      "platform": "TechCrunch / 彭博",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "published": "2026-11-19"
-    },
-    {
-      "title": "谷歌AI摘要让网站点击掉四成",
-      "what": "有实验显示谷歌AI概览普及后，网站外链点击下降约40%。",
-      "why": "给做内容的人提个醒：AI搜索抢流量，可聊自媒体怎么让AI引用自己、别只靠搜索。",
-      "heat": "暂无",
-      "platform": "Digital Today",
-      "url": "https://www.digitaltoday.co.kr/cn/view/128144/google-ai-overviews-spread-triggers-alarm-for-websites-as-clicks-fall-39-8-percent",
-      "published": "2026-11-19"
-    },
-    {
-      "title": "三星谷歌AI眼镜预售秒空",
-      "what": "三星与谷歌合作的Gemini AI眼镜预售数小时售罄，12月10日在韩美上市。",
-      "why": "可做「AI眼镜到底能干嘛」科普，偏资讯，适合作为周末快讯合集的一条。",
-      "heat": "暂无",
-      "platform": "AIProductHub",
-      "url": "https://aiproducthub.cn/newsflash/samsung-google-ai-glasses-preorders-sell-out-december-launch/",
-      "published": "2026-11-19"
+      "platform": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511179.html",
+      "published": "2026-11-21"
     }
   ],
-  "notes": "今天国内大厂（豆包、千问、Kimi、即梦、可灵、剪映）近24小时未搜到新的功能发布，前几天的已在往期简报中，不再重复；抖音/小红书/B站平台内热度数据无法直接读取，热度多为「暂无」；三星眼镜一条来自聚合站摘要，未打开原文。"
+  "notes": "本次以网页搜索+网页读取为主（未调用 agent-reach/horizon）；所有条目页面均未显示点赞/播放数，热度统一写「暂无」；Kelly Abbott 日报、FourWeekMBA 页面读取失败；小红书/抖音/B站未直接抓取到带数据的热榜；11月22日当天的新内容暂未出现。"
 }
