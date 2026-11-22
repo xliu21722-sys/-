@@ -1,89 +1,80 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T07:44:50+08:00",
-  "summary": "ChatGPT推出Space统一做PPT和整理资料，Gemini能替人打电话，「AI稿没人看」话题适合做踩坑。",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:45:17+08:00",
+  "summary": "B站开始整治AI智能体账号、「让AI画13个鸡蛋」刷屏，今天最适合做AI做号避坑和AI实测类视频。",
   "items": [
     {
-      "title": "ChatGPT上线Space统一工作区",
-      "what": "ChatGPT侧边栏新增Space，页面、幻灯片、图片、文件集中管理，还能协作。",
-      "why": "小白做PPT/资料整理刚需：实拍用Space从零做一份幻灯片，记录卡在哪、和国产工具比谁省事。",
+      "title": "B站整治泛滥的AI智能体账号",
+      "what": "「大肥鱼」等AI自动运营账号在B站泛滥，B站官方发起治理意见征询。",
+      "why": "直接关系AI做号的人：讲清平台为啥管、哪些做法会被限，拍「AI做号还能不能做」避坑科普。",
       "heat": "暂无",
-      "platform": "X（ChatGPT官方）/ OpenAI帮助中心",
-      "url": "https://help.openai.com/zh-hans-cn/articles/20001549-getting-started-with-space-in-chatgpt",
-      "published": "2026-11-21"
+      "platform": "B站 / IT之家（新浪财经转载）",
+      "url": "http://finance.sina.com.cn/stock/t/2026-11-22/doc-inizrhva8875789.shtml",
+      "published": "2026-11-22"
     },
     {
-      "title": "Gemini能替你给商家打电话",
-      "what": "谷歌把Duplex放进Gemini的Tasks，可自动致电商家问营业、订位。",
-      "why": "「AI替我打电话」反差感强，可拍演示+讲国内能否用、替代方案是什么，适合做科普向短视频。",
-      "heat": "暂无",
-      "platform": "Google Research博客",
-      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-      "published": "2026-11-21"
+      "title": "让AI画13个鸡蛋测试刷屏",
+      "what": "网友让AI画指定数量的13个鸡蛋，结果频频画错，话题冲上热搜，科普中国解释原因。",
+      "why": "零门槛可复现：拿豆包、即梦、ChatGPT挨个实测谁数得对，顺便讲AI为啥不会数数，很适合踩坑视频。",
+      "heat": "新浪称已冲上热搜（无具体排名/数字）",
+      "platform": "新浪 / 科普中国",
+      "url": "http://k.sina.com.cn/article_5953189932_162d6782c067054yiw.html",
+      "published": "2026-11-22"
     },
     {
-      "title": "DeepSeek插件的13种玩法",
-      "what": "卡兹克在DeepSeek Harness发布百天之际，分享13个插件玩法。",
-      "why": "现成的教程清单：挑3个最适合小白的亲手试一遍，拍「哪些好用、哪些踩坑」的实测合集。",
-      "heat": "暂无",
-      "platform": "X（卡兹克）",
-      "url": "https://x.com/Khazix0918/status/2123627885730951241",
-      "published": "2026-11-21"
+      "title": "AI短剧《持械入宋》续集霸榜",
+      "what": "AI短剧第11季上线后登顶红果热播榜当日TOP5，前十季全网播放超120亿。",
+      "why": "AI短剧是普通人想做的方向：拆解它怎么用AI出画面、一个人能不能做，拍成「AI短剧到底赚不赚钱」。",
+      "heat": "红果热播榜数据10504万；500万人催更；累计播放超120亿（据新浪文章）",
+      "platform": "红果短剧 / 新浪",
+      "url": "http://finance.sina.com.cn/wm/2026-11-22/doc-inizrpay8762484.shtml",
+      "published": "第11季11月15日上线，报道11月22日"
     },
     {
-      "title": "AI写的自媒体稿为啥没人看",
-      "what": "一篇观点文章称AI批量生成的自媒体稿结构工整但没内容，阅读量常年两位数。",
-      "why": "正戳阿伟定位：拍「我用AI写文案踩过的坑」，对比纯AI稿和加入真实经历后的数据，给观众避坑法。",
+      "title": "TikTok上线AI换脸检测工具",
+      "what": "TikTok推出AI深度伪造检测，任何人可上传图视频查是否AI生成，并给创作者上线肖像检测。",
+      "why": "讲「AI做的视频会被认出来吗」，结合抖音AI标识规则，提醒新手用AI素材要打标，避免限流。",
       "heat": "暂无",
-      "platform": "新浪",
-      "url": "http://k.sina.com.cn/article_5953740931_162dee083067046be0.html",
-      "published": "2026-11-21"
+      "platform": "TikTok / IT之家（17173转载）",
+      "url": "https://news.17173.com/content/11222026/153228417.shtml",
+      "published": "2026-11-22（TikTok于11月19日宣布）"
     },
     {
-      "title": "剪映黑客松3小时做乐队MV",
-      "what": "剪映办AI×音乐视觉黑客松，创作者几小时内为真实乐队做出MV和现场视觉。",
-      "why": "可模仿挑战：用剪映AI给一首歌3小时做MV，全程记录流程和翻车点，教程+挑战双buff。",
+      "title": "真人授权脸做AI短剧开放申请",
+      "what": "短剧平台Shortical用演员授权的脸拍全AI剧，并计划向公众开放「卖脸」授权申请。",
+      "why": "「把自己的脸授权给AI演戏」话题有争议感，可聊普通人能不能靠脸赚钱、风险在哪，适合口播观点。",
       "heat": "暂无",
-      "platform": "新浪（量子位）",
-      "url": "http://news.sina.cn/ai/2026-11-21/detail-inizpkcw3240008.d.html",
-      "published": "2026-11-21"
+      "platform": "TechCrunch（经AIHOT收录）",
+      "url": "https://aihot.news/items/tyv1kuj0zdg5ghlaj4a2trh3b",
+      "published": "2026-11-22"
     },
     {
-      "title": "Gemini 4 Hydrogen上线",
-      "what": "Gemini 4 Hydrogen上线应用和搜索，主打速度和日常任务。",
-      "why": "新模型速测选题：用同一组日常问题对比豆包/DeepSeek，60秒出结论，注意国内使用门槛要说清。",
-      "heat": "暂无（AIHOT显示另有16家媒体报道）",
-      "platform": "X（Google官方）",
-      "url": "https://x.com/Google/status/2123825847815561261",
-      "published": "2026-11-21"
+      "title": "Signal默认禁止截图防AI偷看",
+      "what": "加密聊天软件Signal在手机端默认禁止应用内截图，防止Siri、Gemini等AI助手读取聊天。",
+      "why": "借此讲「手机AI助手能看到你屏幕上什么」，教小白检查豆包/手机助手的屏幕权限，实用又有点吓人。",
+      "heat": "暂无",
+      "platform": "TechCrunch / IT之家（经AIHOT收录）",
+      "url": "https://aihot.news/items/qmvdl9ks7i52qgmdjhl7zr37v",
+      "published": "2026-11-22"
     },
     {
-      "title": "华为新机取消APP图标",
-      "what": "华为星芒O1 Pro可开启「取消APP图标」模式，开机首屏变成小艺AI屏。",
-      "why": "「手机以后不用点App了？」话题性强，可做观点短视频：讲AI助手入口变化对普通人意味着什么。",
+      "title": "OpenAI实时语音模型开放调用",
+      "what": "OpenAI在API开放全双工语音模型GPT-Live-1.1，可边听边说实时对话。",
+      "why": "偏开发者，但能预告「AI实时打电话/陪聊」类应用会变多；可做对比现有ChatGPT语音的体验短评。",
       "heat": "暂无",
-      "platform": "新浪",
-      "url": "http://k.sina.com.cn/article_7879995964_1d5af323c068019w1m.html",
-      "published": "2026-11-21"
+      "platform": "MarkTechPost（经AIHOT收录）",
+      "url": "https://aihot.news/items/jgdk5egmip2g0j9yo15pqzb1h",
+      "published": "2026-11-21 晚"
     },
     {
-      "title": "北京AIGC视听最高送10万Token",
-      "what": "北京AIGC视听产业创新中心发扶持政策，优秀作品最高给10万元Token。",
-      "why": "给想做AI视频的观众的福利信息：讲清谁能申请、怎么参与，适合做信息差类快讯。",
+      "title": "谷歌Antigravity重置Gemini额度",
+      "what": "谷歌AI编程工具Antigravity给用户重置Gemini用量额度，称缓存优化后同额度能多干22%活。",
+      "why": "适合「免费额度怎么用最划算」类教程，演示小白用Antigravity做个小网页，记录额度消耗。",
       "heat": "暂无",
-      "platform": "新浪",
-      "url": "http://k.sina.com.cn/article_1893892941_70e2834d02002580a.html",
-      "published": "2026-11-20"
-    },
-    {
-      "title": "商汤生图模型登顶国内第一",
-      "what": "商汤U1 Pro在Design Arena生图和改图双榜获中国第一、全球第六。",
-      "why": "可做国产AI做图横评：同一提示词对比商汤、即梦、豆包，看小白最该用哪个。",
-      "heat": "暂无",
-      "platform": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511179.html",
-      "published": "2026-11-21"
+      "platform": "X（Varun Mohan，经AIHOT收录）",
+      "url": "https://aihot.news/items/whgaoufw6emneyq2irkcfxtv0",
+      "published": "2026-11-22"
     }
   ],
-  "notes": "本次以网页搜索+网页读取为主（未调用 agent-reach/horizon）；所有条目页面均未显示点赞/播放数，热度统一写「暂无」；Kelly Abbott 日报、FourWeekMBA 页面读取失败；小红书/抖音/B站未直接抓取到带数据的热榜；11月22日当天的新内容暂未出现。"
+  "notes": "今天（周日至周一凌晨）国内大厂（豆包、DeepSeek、千问、Kimi、即梦、可灵、剪映）24小时内没搜到新功能发布；小红书/抖音/X/YouTube未直接读到带点赞播放数的页面，热度均来自新闻页面所写或标「暂无」；samonai.substack.com 与 bannedbook 页面读取失败。"
 }
