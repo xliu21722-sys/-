@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T07:44:53+08:00",
+  "summary": "ChatGPT能直接做PPT、剪映AI四小时做MV、腾讯AI能替你操作电脑，今天适合做AI办公和剪辑实测。",
+  "items": [
+    {
+      "title": "ChatGPT出协作空间，能做PPT",
+      "what": "OpenAI给Plus用户上线ChatGPT Space，页面、幻灯片、图片放一起，Slides可导出PPT。",
+      "why": "AI做PPT是刚需，拍「一句话让ChatGPT做PPT并导出」实测，对比国产工具踩坑。",
+      "heat": "暂无",
+      "platform": "TechGig（ai-daily.cn转载）",
+      "url": "https://techgig.com/news/ai/openai-rolls-out-chatgpt-space-to-plus-subscribers/136085621",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "剪映Hub四小时做出MV",
+      "what": "首届AI音乐视觉黑客松上，50支创作团队用剪映Hub在4小时内做出MV和舞台视觉。",
+      "why": "剪映观众最熟，可拍「我用剪映AI一小时做一支MV」挑战，记录真实翻车点。",
+      "heat": "暂无",
+      "platform": "新浪财经",
+      "url": "http://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztrzw2257068.shtml",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "腾讯WorkBuddy能替你操作电脑",
+      "what": "腾讯WorkBuddy上线电脑操控能力，公测中，支持Mac和Windows。",
+      "why": "「AI帮我点电脑干活」很直观，录屏实测让它整理文件、填表，看能不能真省事。",
+      "heat": "暂无",
+      "platform": "腾讯官方公众号",
+      "url": "https://mp.weixin.qq.com/s/9lAJiEkOWDqfGtfhvYt4bw",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "日本大学官网用AI宣传片翻车",
+      "what": "近畿大学官网首页放AI生成宣传视频在网上走红，网友吐槽省钱但审美下降。",
+      "why": "可做「AI视频怎样不显廉价」避坑：对比翻车点，教新手几个提示词技巧。",
+      "heat": "暂无",
+      "platform": "新浪科技",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-11-23/doc-iniztmty2268433.shtml",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "智谱发布GLM-5.4新模型",
+      "what": "智谱发布旗舰模型GLM-5.4，加入看图能力，主打编程，每周额度比上代多50%。",
+      "why": "国产新模型可快速上手测：写文案、看图、做小工具三连测，给普通人选型建议。",
+      "heat": "Hacker News 29分/10评论（ai-daily.cn所示）",
+      "platform": "新京报（新浪转载）",
+      "url": "http://news.sina.com.cn/o/2026-11-23/doc-iniztrzy8220542.shtml",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "Grok做图功能被美国两州起诉",
+      "what": "美国俄勒冈、弗吉尼亚州起诉马斯克旗下公司，称Grok Imagine生成大量不当图片。",
+      "why": "可讲「AI做图哪些红线不能碰」，提醒新手做号别踩平台和法律雷区。",
+      "heat": "暂无",
+      "platform": "新浪财经",
+      "url": "http://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztwiw8136130.shtml",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "游戏因AI音乐被差评后删除",
+      "what": "《以撒的结合》因Steam差评轰炸删掉AI音乐，Valve要求开发者披露AI用途。",
+      "why": "引出「用AI做内容要不要标注」，聊抖音等平台AI标识规则和观众反感点。",
+      "heat": "暂无",
+      "platform": "The Verge",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "published": "2026-11-22"
+    },
+    {
+      "title": "称Claude协助证明黎曼猜想",
+      "what": "Anthropic一位数学家称与Claude合作写出黎曼猜想证明，目前仍是其自称、待验证。",
+      "why": "适合做「AI到底多聪明」科普短视频，但要强调未被证实，别当定论讲。",
+      "heat": "暂无",
+      "platform": "新浪",
+      "url": "http://k.sina.com.cn/article_6145283913_v16e49974902002irtq.html",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "ChatGPT手机版大改版",
+      "what": "ChatGPT移动端改用底部标签栏，新增Dots页，常用工具可固定。",
+      "why": "适合做「新版ChatGPT怎么用」一分钟上手教程，带新手找到常用功能。",
+      "heat": "暂无",
+      "platform": "Yahoo科技",
+      "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-getting-look-phone-dot-044322153.html",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "腾讯AI输入法开启内测",
+      "what": "腾讯AI输入法Chatterfly安卓版内测，支持语音输入和意图识别。",
+      "why": "可拍「用AI输入法说话打字回消息」效率实测，贴近普通人日常。",
+      "heat": "暂无",
+      "platform": "IT之家",
+      "url": "https://www.ithome.com/1/030/576.htm",
+      "published": "2026-11-23"
+    }
+  ],
+  "notes": "本次未使用agent-reach/horizon实时抓取，改用网页搜索+读取新浪AI热点小时报、ai-daily.cn、ai-bot.cn等聚合页；小红书、B站、抖音、X的点赞播放数未能直接读取，热度多为「暂无」。11月24日凌晨新消息较少。"
+}
