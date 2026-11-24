@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T07:44:27+08:00",
+  "summary": "豆包工作把八成日常任务变免费、ChatGPT换新默认模型、TikTok能查AI视频，今天适合做免费AI办公实测和AI视频标注科普。",
+  "items": [
+    {
+      "title": "豆包工作八成日常任务免费用",
+      "what": "豆包工作把DeepSeek等模型消耗倍率降到0.01，日常办公大多免费。",
+      "why": "普通人最关心「免费」：实测拿它写周报、做表格，记录额度消耗，拍成「零成本AI办公」教程。",
+      "heat": "暂无",
+      "platform": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuxvh1989693.shtml",
+      "published": "2026-11-24 10:47"
+    },
+    {
+      "title": "ChatGPT聊天换上新默认模型",
+      "what": "ChatGPT聊天页换上GPT-6.2 Sol，日常问答、搜索、看图更靠谱。",
+      "why": "拿同一组生活问题新旧对比，或和豆包、DeepSeek同题PK，适合做「到底升级了啥」实测。",
+      "heat": "暂无",
+      "platform": "Techmeme / The Decoder",
+      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "TikTok能查视频是不是AI做的",
+      "what": "TikTok全球上线肖像检测，能发现被AI冒用的脸、查AI生成片段。",
+      "why": "AI自媒体必看：讲清AI视频要标注、脸被盗用怎么办，可顺带聊抖音AI内容标识规则。",
+      "heat": "暂无",
+      "platform": "The Next Web",
+      "url": "https://thenextweb.com/news/tiktok-ai-checker-likeness-detection-global",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "谷歌首页多了做图按钮",
+      "what": "谷歌登录用户首页出现「做图」「问文件」「头脑风暴」按钮，搜索框直接变AI入口。",
+      "why": "录屏展示三个按钮各试一次，讲「搜索引擎也变AI了」，适合做快节奏新功能速报。",
+      "heat": "暂无",
+      "platform": "The Next Web",
+      "url": "https://thenextweb.com/news/google-homepage-search-button-ai-buttons-sidebar",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "Gemini画布官方用法合集",
+      "what": "谷歌发文教Gemini Canvas玩法：一句话做网页、学习卡片、改文章。",
+      "why": "现成教程素材：挑两三个玩法跟着做一遍，记录踩坑，拍「Gemini隐藏功能」上手视频。",
+      "heat": "暂无",
+      "platform": "Google 官方博客",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "谷歌AI搜索能读你的钱包",
+      "what": "谷歌搜索AI模式可选接入谷歌钱包分析消费，云盘和Gemini应用连接也将上线。",
+      "why": "可做「AI帮你记账省钱」话题，同时提醒隐私授权要谨慎，对比国内AI记账玩法。",
+      "heat": "暂无",
+      "platform": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "Meta上线AI圣诞代购",
+      "what": "Meta在英国推出购物AI助手Muse，可以替用户挑选和处理圣诞礼物采购。",
+      "why": "结合双十二，用国内AI帮挑礼物做对比实测，讲「AI替你购物」靠不靠谱。",
+      "heat": "暂无",
+      "platform": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+      "published": "2026-11-24"
+    },
+    {
+      "title": "Nothing耳机能录音写纪要",
+      "what": "Nothing发布Ear Note耳机，能录下对话转文字并自动生成摘要。",
+      "why": "引出「AI会议纪要」话题，演示用手机免费工具录音转文字做总结，成本对比硬件。",
+      "heat": "暂无",
+      "platform": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "published": "2026-11-23"
+    },
+    {
+      "title": "Claude推出自动审代码助手",
+      "what": "Anthropic发布Claude Ship，能审查、修改、批准代码改动。",
+      "why": "观众不写代码，可简单科普「AI已能替程序员干活」，适合放在周度新闻盘点里一句带过。",
+      "heat": "暂无",
+      "platform": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "published": "2026-11-23"
+    }
+  ],
+  "notes": "今天未拿到任何点赞/播放数，热度均为「暂无」；爱范儿早报读取失败，微博禁止抓取，Sam on AI、Yahoo 文章读取失败；未直接检索到抖音/小红书/B站当天热帖；部分条目为11月23日（约36小时内）。"
+}
