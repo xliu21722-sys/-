@@ -1,0 +1,101 @@
+{
+  "day": "2026-11-25",
+  "generated_at": 1795564961.094868,
+  "ai_only": true,
+  "items": [
+    {
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+      "platform": "GitHub",
+      "first": true,
+      "published_at": "2026-11-24T00:06:41Z",
+      "heat": null,
+      "heat_label": null,
+      "heat_kind": null,
+      "id": "brief_824283cf95f0a1c6",
+      "title": "Codex CLI 新增线程跳转与命令补全",
+      "summary": "OpenAI Codex CLI 支持从搜索结果/对话记录中点击跳转至保存的会话和嵌套 Agent，并支持 Tab 补全 slash 命令参数。",
+      "relation": "为阿伟实测 AI 工具链中的 CLI 类 Agent 提供可验证的交互增强能力，可直接用于办公自动化工作流调试与技能封装。",
+      "source": "GitHub",
+      "how": "为阿伟实测 AI 工具链中的 CLI 类 Agent 提供可验证的交互增强能力，可直接用于办公自动化工作流调试与技能封装。",
+      "ai": true,
+      "discovered_at": 1795564961.094868
+    },
+    {
+      "url": "https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview",
+      "platform": "官方博客",
+      "first": true,
+      "published_at": "2026-11-24T00:00:00Z",
+      "heat": null,
+      "heat_label": null,
+      "heat_kind": null,
+      "id": "brief_1173301e4bceb248",
+      "title": "vLLM 首日支持百度 ERNIE 5.5 Flash 预览版",
+      "summary": "vLLM 通过 vLLM-ERNIE 插件在 0.32.0 版本中实现对 ERNIE 5.5 Flash 的开箱即用支持，含结构感知核融合、FlashIndexer 等加速技术。",
+      "relation": "为阿伟评测国产大模型落地性能提供关键基础设施参考，尤其适用于需本地部署/私有化推理的企业提效场景。",
+      "source": "官方博客",
+      "how": "为阿伟评测国产大模型落地性能提供关键基础设施参考，尤其适用于需本地部署/私有化推理的企业提效场景。",
+      "ai": true,
+      "discovered_at": 1795564961.094868
+    },
+    {
+      "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+      "platform": "官方博客",
+      "first": true,
+      "published_at": "2026-11-24T00:00:00Z",
+      "heat": null,
+      "heat_label": null,
+      "heat_kind": null,
+      "id": "brief_e51f1d2a874386b9",
+      "title": "vLLM-GR 发布：面向生成式推荐的高效推理框架",
+      "summary": "vLLM-GR 扩展 vLLM 支持生成式推荐模型，引入加速器端 beam search、目录约束与候选路径共享 KV 缓存。",
+      "relation": "拓展阿伟对企业级 AI 应用边界的认知，尤其适用于电商、SaaS 类中小企业构建个性化推荐工作流。",
+      "source": "官方博客",
+      "how": "拓展阿伟对企业级 AI 应用边界的认知，尤其适用于电商、SaaS 类中小企业构建个性化推荐工作流。",
+      "ai": true,
+      "discovered_at": 1795564961.094868
+    },
+    {
+      "url": "https://vllm.ai/blog/2026-11-23-skip-the-dram-tier",
+      "platform": "官方博客",
+      "first": true,
+      "published_at": "2026-11-23T00:00:00Z",
+      "heat": null,
+      "heat_label": null,
+      "heat_kind": null,
+      "id": "brief_fa08bb9c21c2e185",
+      "title": "MoRI UMBP 将 Agent KV 缓存移至 NVMe，大幅降本",
+      "summary": "在 AMD MI355X GPU 上，NVMe 存储的 MoRI UMBP KV 池性能媲美同容量 DRAM，单日 Agent 缓存成本远低于传统方案。",
+      "relation": "为阿伟分析小企业 AI 系统部署成本提供新视角，支撑‘零代码搭系统’中对硬件性价比与长时态 Agent 架构的设计判断。",
+      "source": "官方博客",
+      "how": "为阿伟分析小企业 AI 系统部署成本提供新视角，支撑‘零代码搭系统’中对硬件性价比与长时态 Agent 架构的设计判断。",
+      "ai": true,
+      "discovered_at": 1795564961.094868
+    }
+  ],
+  "hot_items": [],
+  "stats": {
+    "scanned": 25,
+    "kept": 4,
+    "first": 4,
+    "shares": [
+      40.0,
+      32.0,
+      12.0,
+      16.0
+    ],
+    "labels": [
+      "国内热榜",
+      "GitHub",
+      "官方博客",
+      "其他"
+    ]
+  },
+  "coverage": {
+    "Horizon": "partial_failure",
+    "Agent Reach": "V2EX",
+    "B站": "公开榜单已读到 30 条有指标的有限样本",
+    "微博": "公开榜单暂不可读",
+    "小红书": "公开页没有带指标的热点榜",
+    "抖音": "专用浏览器读取公开热榜"
+  }
+}
