@@ -1,0 +1,84 @@
+{
+  "day": "2026-11-26",
+  "generated_at": 1795651306.2318568,
+  "ai_only": true,
+  "items": [
+    {
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+      "platform": "GitHub",
+      "first": true,
+      "published_at": "2026-11-24T00:06:41Z",
+      "heat": null,
+      "heat_label": null,
+      "heat_kind": null,
+      "id": "brief_824283cf95f0a1c6",
+      "title": "Codex CLI 新增线程跳转与命令补全功能",
+      "summary": "Codex CLI 支持从搜索结果/转录文本中点击跳转至保存的对话和嵌套 Agent，并支持 Tab 补全 slash 命令参数。",
+      "relation": "直接提升阿伟实测 AI 工具时的终端操作效率，尤其适用于构建和调试基于 CLI 的自动化工作流（如 Agent 编排、日志分析脚本）。",
+      "source": "GitHub",
+      "how": "直接提升阿伟实测 AI 工具时的终端操作效率，尤其适用于构建和调试基于 CLI 的自动化工作流（如 Agent 编排、日志分析脚本）。",
+      "ai": true,
+      "discovered_at": 1795651306.2318568
+    },
+    {
+      "url": "https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview",
+      "platform": "官方博客",
+      "first": true,
+      "published_at": "2026-11-24T00:00:00Z",
+      "heat": null,
+      "heat_label": null,
+      "heat_kind": null,
+      "id": "brief_1173301e4bceb248",
+      "title": "vLLM 首日支持百度 ERNIE 5.5 Flash Preview",
+      "summary": "vLLM 通过 vLLM-ERNIE 插件（vllm==0.32.0）实现对 ERNIE 5.5 Flash 的开箱即用支持，含结构感知核融合、FlashIndexer 等加速技术。",
+      "relation": "为阿伟实测国产大模型推理性能提供可复现的技术路径，支撑其在‘AI 产品实测’支柱中对比千问/讯飞/ERNIE 的本地部署成本与延迟。",
+      "source": "官方博客",
+      "how": "为阿伟实测国产大模型推理性能提供可复现的技术路径，支撑其在‘AI 产品实测’支柱中对比千问/讯飞/ERNIE 的本地部署成本与延迟。",
+      "ai": true,
+      "discovered_at": 1795651306.2318568
+    },
+    {
+      "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+      "platform": "官方博客",
+      "first": true,
+      "published_at": "2026-11-24T00:00:00Z",
+      "heat": null,
+      "heat_label": null,
+      "heat_kind": null,
+      "id": "brief_e51f1d2a874386b9",
+      "title": "vLLM 发布生成式推荐专用推理引擎 vLLM-GR",
+      "summary": "vLLM-GR 新增加速生成式推荐任务的能力，支持加速端 beam search、目录约束与候选路径共享 KV 缓存。",
+      "relation": "拓展阿伟对企业 AI 提效内容的覆盖边界——中小电商/内容平台可借该工具零代码接入生成式推荐能力，契合‘小公司降本’与‘零代码搭系统’方向。",
+      "source": "官方博客",
+      "how": "拓展阿伟对企业 AI 提效内容的覆盖边界——中小电商/内容平台可借该工具零代码接入生成式推荐能力，契合‘小公司降本’与‘零代码搭系统’方向。",
+      "ai": true,
+      "discovered_at": 1795651306.2318568
+    }
+  ],
+  "hot_items": [],
+  "stats": {
+    "scanned": 26,
+    "kept": 3,
+    "first": 3,
+    "shares": [
+      38.46153846153846,
+      38.46153846153846,
+      7.6923076923076925,
+      15.384615384615385
+    ],
+    "labels": [
+      "国内热榜",
+      "GitHub",
+      "官方博客",
+      "其他"
+    ]
+  },
+  "coverage": {
+    "Horizon": "partial_failure",
+    "Agent Reach": "V2EX",
+    "B站": "公开榜单已读到 30 条有指标的有限样本",
+    "微博": "公开页面暂未返回带指标的榜单",
+    "小红书": "公开页没有带指标的热点榜",
+    "抖音": "专用浏览器读取公开热榜"
+  }
+}
